@@ -85,3 +85,10 @@ Tahmin yaparken, gerçek bir hata puanı elde etmek için yapılan ölçeklendir
 
 ## 5. Sonuç ve Tartışma
 Bu çalışmada son zamanlarda bir çok alanda kullanılan çift yönlü LSTM ile talep tahmini yapmak üzere bir deney yapılmıştır. Deney sonucunda tahminlerin başarısının yüksek olduğu gözükmektedir. Burada kullanılan çift yönlü LSTM, farklı hibrit modeller içerisinde kullanılarak çalışma ileriye taşınabilir. Bulunan en uygun yöntem ise hayati öneme haiz, insan ihtiyaçlarını karşılamak üzere olan bir veri üzerinde  kullanılabilir.
+
+## Referanslar
+- [1] 	P. Hu, J. Tong, J. Wang, Y. Yang and L. d. Oliveira Turci, "A hybrid model based on CNN and Bi-LSTM for urban water demand prediction," 2019 IEEE Congress on Evolutionary Computation (CEC), 2019, pp. 1088-1094, doi: 10.1109/CEC.2019.8790060.
+- [2] 	YiFei Li, Han Cao, Prediction for Tourism Flow based on LSTM Neural Network, Procedia Computer Science, Volume 129, 2018, Pages 277-283, ISSN 1877-0509.
+- [3] 	Graves, A., Jaitly, N., Mohamed, A.: Hybrid Speech Recognition with Deep Bidirectional LSTM[J], Automatic Speech Recognition and Understanding (ASRU), (2013).
+- [4] 	Jiujian, Wang & Wen, Guilin & Yang, Shaopu & Liu, Yongqiang. (2018). Remaining Useful Life Estimation in Prognostics Using Deep Bidirectional LSTM Neural Network. 1037-1042. 10.1109/PHM-Chongqing.2018.00184.
+- [5]    [https://github.com/hersany/DataScience/tree/master/MSKU/Demand_Prediction](https://github.com/hersany/DataScience/tree/master/MSKU/Demand_Prediction)
