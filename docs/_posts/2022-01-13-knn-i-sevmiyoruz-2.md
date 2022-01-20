@@ -5,6 +5,10 @@ date:   2022-01-13 12:33:07 -0800
 categories: yazi
 ---
 
+***Editörün notu:*** *Şüphesiz, bir örneğin en yakın komşularını aldıktan sonra bağımlı değişken için yapılabilecek en kolay tahmin, komşuların hedef değişkenlerinin ortalamasını vermek. Pekala, bu ortalamayı, sorgu noktasının komşulara olan mesafelerine göre ağırlıklı bir ortalamaya çevirmek dahi mümkün. Peki mümkün olan bütün hal tarzları bunlardan mı ibaret? [Şükrü](https://medium.com/@sukrucansezer)'nün alternatif yöntemlerden birkaçına uygulamalı olarak değindiği yazısı sizlerle...*
+
+*[Şükrü Sezer](https://medium.com/@sukrucansezer)'in [Machine Learning Turkiye](https://medium.com/machine-learning-t%C3%BCrkiye)'de 13 Ocak 2022 tarihinde yayınlanmış olan yazısıdır.*
+
 # Tek yol ortalama almak mı?
 
 ![](https://miro.medium.com/max/866/1*aGjYMi4j0XX4OQlaf6NM4Q.png)
