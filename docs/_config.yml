@@ -26,7 +26,7 @@ github_username:  dreamsoft-applications
 # Build settings
 markdown: kramdown
 kramdown:
-  math_engine: mathjax
+  math_engine: katex
 theme: minima
 plugins:
   - jekyll-feed
