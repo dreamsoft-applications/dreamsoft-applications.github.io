@@ -4,6 +4,10 @@ title:  "Temel Bileşen Analizi (PCA)"
 date:   2021-06-20 12:33:07 -0800
 categories: yazi
 ---
+***Editörün notu:*** *50 kolondan oluşan bir veri setini nasıl özetlerdiniz? Tüm kolonlara (boyutlara) gerçekten ihtiyacınız var mı; yoksa veri, kritik bilgileri koruyan bir kaç temel bileşene düşürülebilir mi? Çok boyutlu verileri görsel olarak analiz etmek mümkün mü? Eğer bu soruların cevabı "evet"se, peki bu nasıl yapılabilir? [Adem](https://ademtekinbass.medium.com/)'ın' tüm bu sorulara yanıt verirken aynı zamanda PCA'nın alt yapısını da net bir şekilde sunduğu yazısı huzurlarınızda...*
+
+*[Adem Tekinbaş](https://ademtekinbass.medium.com/)'ın [Machine Learning Turkiye](https://medium.com/machine-learning-t%C3%BCrkiye)'de 20 Haziran 2021 tarihinde yayınlanmış olan yazısıdır.*
+
 
 ![Yosemite - El Capitan](https://miro.medium.com/max/1400/1*HM39uRqzrcGP_6iYd_m73Q.jpeg)
 
@@ -73,8 +77,6 @@ Bir matrisin tüm öz vektörleri birbirine diktir. Dolayısıyla, PCA’da yapt
 ## Sonuç
 Umarım bu yazımı faydalı bulmuşsunuzdur. PCA konusunda daha detaylı bilgi için aşağıdaki referansları takip edebilirsiniz. İyi ve sağlıklı günler dilerim. 😊
 
-
-$x^2=2$
 
 ## Kaynakça
 - [1] Alpaydın, E. 2010. “Introduction to Machine Learning.”The MIT Press Cambridge, Massachusetts, London, England
